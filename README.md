@@ -1,4 +1,4 @@
 # CaptchaCrack
-A simple search for numbers in captcha \n
-In example folder  captcha examples
-In iconset folder  characters to compare
+A simple search for numbers in captcha.
+In example folder  captcha examples.
+In iconset folder  characters to compare.
